@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "Dart-Code.flutter",
+    "Dart-Code.dart-code",
+    "jeroen-meijer.pubspec-assist",
+    "bavfalcon9.flutter-assets-generator",
+    "quicktype.quicktype",
+    "Nash.awesome-flutter-snippets",
+    "robert-harvey.flutter-widget-wrapper",
+    "antigravity.flutter-widget-test-preview",
+    "alextanhongpin.pubspec-platform",
+    "usernamehw.errorlens",
+    "gencay.flutter-color",
+    "felix-angelov.bloc"
+  ]
+}

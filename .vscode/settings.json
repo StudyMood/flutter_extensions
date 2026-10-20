@@ -1,0 +1,28 @@
+{
+  // Dart & Flutter Settings
+  "dart.previewFlutterUiGuides": true,
+  "dart.openDevTools": "flutter",
+  "dart.flutterTrackWidgetCreation": true,
+  "dart.lineLength": 80,
+
+  // Editor formatting & auto-fixes
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "Dart-Code.dart-code",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit"
+  },
+
+  // Error Lens optimization (reduces noise, emphasizes critical issues)
+  "errorLens.enabledDiagnosticLevels": [
+    "error",
+    "warning"
+  ],
+  "errorLens.fontStyleItalic": true,
+  "errorLens.fontSize": "12px",
+
+  // Pubspec & files
+  "files.associations": {
+    "pubspec.yaml": "yaml"
+  }
+}
